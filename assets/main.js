@@ -1,3 +1,3 @@
 function trocaCor( e ){
-    document.body.style.backgroundColor = 'lightseagreen';
+    document.body.style.backgroundColor = 'purple';
 }
